@@ -1,6 +1,6 @@
-![MasterHead](https://camo.githubusercontent.com/0d769916207953f9e24c7b78cc40b555ab658a27a3b4541779d5cf02759d74bc/68747470733a2f2f692e696d6775722e636f6d2f6f7432727461532e676966)
-<h1 align="center">HOLA , I'm Karindra Chamika</h1>
-
+[!MasterHead](https://camo.githubusercontent.com/0d769916207953f9e24c7b78cc40b555ab658a27a3b4541779d5cf02759d74bc/68747470733a2f2f692e696d6775722e636f6d2f6f7432727461532e676966)
+<h1 align="center">Hey 👋, I'm Karindra Chamika</h1>
+<h2 align="center"> UI/UX developer </h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarindraChamika&label=Profile%20views&color=0e75b6&style=flat" alt="KarindraChamika" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Algorithms and AI**
 
-- 📫 Reach me through **asirimath20@gmail.com**
+- 📫 Reach me through **chamikariki@gmail.com**
 
 - ⚡ Fun fact - **"Asirimath" isn't that sounds funny?**
 
