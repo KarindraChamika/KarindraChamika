@@ -1,5 +1,5 @@
-![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
-<h1 align="center">HOLA , I'm Asirimath Vimukthi</h1>
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FBiellms&psig=AOvVaw1A8ZGsBaRaC_KAaykM0F4P&ust=1677052511271000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKC1vcuRpv0CFQAAAAAdAAAAABAI)
+<h1 align="center">HOLA , I'm Karindra Chamika</h1>
 
 
 
