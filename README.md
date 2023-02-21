@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FBiellms&psig=AOvVaw1A8ZGsBaRaC_KAaykM0F4P&ust=1677052511271000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKC1vcuRpv0CFQAAAAAdAAAAABAI)
+![MasterHead](https://camo.githubusercontent.com/0d769916207953f9e24c7b78cc40b555ab658a27a3b4541779d5cf02759d74bc/68747470733a2f2f692e696d6775722e636f6d2f6f7432727461532e676966)
 <h1 align="center">HOLA , I'm Karindra Chamika</h1>
 
 
