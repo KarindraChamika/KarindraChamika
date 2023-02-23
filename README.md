@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KarindraChamika" alt="KarindraChamika" /></a> </p>
 
-<img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="300" src="https://dribbble.com/shots/6555657-Animation-Technology">
 
 - 🌱 I’m currently learning **Advanced Database,Algorithms and AI**
 
