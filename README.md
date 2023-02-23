@@ -5,8 +5,7 @@
 
 </div>
 
-<h1 align="center">Hey 👋, I'm Karindra Chamika</h1> <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="50px">**
-<h2 align="center"> UI/ UX Developer </h2>
+<h1 align="center">Hey 👋, I'm Karindra Chamika <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="50px">**</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarindraChamika&label=Profile%20views&color=0e75b6&style=flat" alt="KarindraChamika" /> </p>
