@@ -10,17 +10,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarindraChamika&label=Profile%20views&color=0e75b6&style=flat" alt="KarindraChamika" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KarindraChamika" alt="KarindraChamika" /></a> </p>
-     
-<img align="right" alt="Coding" width="300" src="https://giphy.com/gifs/motion">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KarindraChamika" alt="KarindraChamika" /></a></p>
 
+     
 - 🌱 I’m currently learning **Advanced Database,Algorithms and AI**
 
 - 📫 Reach me through **chamikariki@gmail.com**
 
 - ⚡ Fun fact - **"Karindra" isn't that sounds funny?**
-
-
 
 
 
