@@ -1,6 +1,7 @@
 <div align="center">
 
-![custom-logo-design-for-your-business-knb-logos_76](https://user-images.githubusercontent.com/89014785/220877506-6190d154-e5c3-4a94-931d-6c1d8ece598f.gif)
+
+![Basics+of+Video+Coding](https://user-images.githubusercontent.com/89014785/220891478-6ac38117-1ea1-4d29-ade8-163f41f7c669.gif)
 
 
 </div>
