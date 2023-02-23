@@ -1,7 +1,9 @@
-
 <div align="center">
 
-  <img src="https://i.imgur.com/ot2rtaS.gif">
+![custom-logo-design-for-your-business-knb-logos_76](https://user-images.githubusercontent.com/89014785/220877506-6190d154-e5c3-4a94-931d-6c1d8ece598f.gif)
+
+
+</div>
 
 
 <h1 align="center">Hey 👋, I'm Karindra Chamika <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="50px"></h1>
@@ -11,16 +13,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KarindraChamika" alt="KarindraChamika" /></a></p>
   <br>
-  <p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89014785/220871704-07ea7af3-8b0a-4505-aa3e-7c91d39ce322.gif">
-
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89014785/220871704-07ea7af3-8b0a-4505-aa3e-7c91d39ce322.gif">
+  
  
 - 🌱 I’m currently learning **Advanced Database,Algorithms and AI**
 
 - 📫 Reach me through **chamikariki@gmail.com**
 
 - ⚡ Fun fact - **"Karindra" isn't that sounds funny?**
-  </P>
+    
+  
+
 
 
 <h3 align="left">Connect with me:</h3>
