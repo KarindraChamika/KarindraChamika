@@ -15,10 +15,13 @@
   <br>
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89014785/220871704-07ea7af3-8b0a-4505-aa3e-7c91d39ce322.gif">
   
+ - 🎓 I'm Studying Bsc(Special) Management Information Systems.
+
+- 👯 I’m looking for a BA/PM Internship.
  
 - 🌱 I’m currently learning **Advanced Database,Algorithms and AI**
 
-- 📫 Reach me through **chamikariki@gmail.com**
+
 
 - ⚡ Fun fact - **"Karindra" isn't that sounds funny?**
 
