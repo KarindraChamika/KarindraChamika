@@ -1,10 +1,10 @@
-![MasterHead]
+
 <div align="center">
 
   <img src="https://i.imgur.com/ot2rtaS.gif">
 
 </div>
-(https://camo.githubusercontent.com/0d769916207953f9e24c7b78cc40b555ab658a27a3b4541779d5cf02759d74bc/68747470733a2f2f692e696d6775722e636f6d2f6f7432727461532e676966)
+
 <h1 align="center">Hey 👋, I'm Karindra Chamika</h1>
 <h2 align="center"> UI/ UX Developer </h2>
 
