@@ -14,11 +14,11 @@
 
 <img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🌱 I’m currently learning **Algorithms and AI**
+- 🌱 I’m currently learning **Advanced Database,Algorithms and AI**
 
 - 📫 Reach me through **chamikariki@gmail.com**
 
-- ⚡ Fun fact - **"Asirimath" isn't that sounds funny?**
+- ⚡ Fun fact - **"Karindra" isn't that sounds funny?**
 
 
 
