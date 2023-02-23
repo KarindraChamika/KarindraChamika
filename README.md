@@ -5,7 +5,7 @@
 
 </div>
 
-<h1 align="center">Hey 👋, I'm Karindra Chamika</h1>
+<h1 align="center">Hey 👋, I'm Karindra Chamika</h1> <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="50px">**
 <h2 align="center"> UI/ UX Developer </h2>
 
 
